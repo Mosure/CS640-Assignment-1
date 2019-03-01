@@ -1,0 +1,7 @@
+.vscode
+.dockerignore
+Dockerfile
+README.md
+README.txt
+.git
+test.bat
